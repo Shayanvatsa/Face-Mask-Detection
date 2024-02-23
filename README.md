@@ -14,7 +14,7 @@ This project aims to detect whether a person in an image is wearing a face mask 
 
 ## Dataset
 
-The dataset used for training the model consists of two classes: images with masks and images without masks. It was obtained from the Kaggle dataset ["Face Mask Detection"](https://www.kaggle.com/ashishjangra27/face-mask-detection).
+The dataset used for training the model consists of two classes: images with masks and images without masks. It was obtained from the Kaggle dataset ["Face Mask Detection"](https://www.kaggle.com/https://www.kaggle.com/datasets/omkargurav/face-mask-dataset).
 
 ## Model Architecture
 
